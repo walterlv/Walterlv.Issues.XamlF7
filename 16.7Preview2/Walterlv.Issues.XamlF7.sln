@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.36
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walterlv.Issues.XamlF7", "Walterlv.Issues.XamlF7\Walterlv.Issues.XamlF7.csproj", "{0713AD99-939E-4A6F-A0E4-2AE8D1D0EECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0713AD99-939E-4A6F-A0E4-2AE8D1D0EECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0713AD99-939E-4A6F-A0E4-2AE8D1D0EECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0713AD99-939E-4A6F-A0E4-2AE8D1D0EECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0713AD99-939E-4A6F-A0E4-2AE8D1D0EECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {565B4D5C-D8BE-4CE6-9EFB-BE011338A680}
+	EndGlobalSection
+EndGlobal
